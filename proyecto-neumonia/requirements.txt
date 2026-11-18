@@ -1,0 +1,11 @@
+# torch y torchvision se instalan aparte (ver README)
+fastapi
+uvicorn
+python-multipart
+streamlit>=1.40
+requests
+plotly
+pandas
+scikit-learn
+pillow
+kagglehub
